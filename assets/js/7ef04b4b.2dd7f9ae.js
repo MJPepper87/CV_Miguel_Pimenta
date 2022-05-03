@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcv_miguel_pimenta=self.webpackChunkcv_miguel_pimenta||[]).push([[799],{5745:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-pages","id":"default"}}')}}]);
